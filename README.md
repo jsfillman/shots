@@ -1,4 +1,4 @@
 # shots
 Screenshots!
 
-(https://github.com/jsfillman/shots/raw/master/shots.jpg)
+![Make some screenshots](https://raw.githubusercontent.com/jsfillman/shots/master/shots.jpg)
